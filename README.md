@@ -1,0 +1,2 @@
+# ejercicioPseudoClasesCSS
+Created with CodeSandbox
