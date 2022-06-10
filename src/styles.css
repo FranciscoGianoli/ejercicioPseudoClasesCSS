@@ -1,0 +1,39 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+  border: solid;
+  border-color: black;
+}
+
+p {
+  font-size: 30px;
+}
+
+button {
+  width: 10vw;
+  height: 5vh;
+  border-radius: 5%;
+  background-color: aquamarine;
+  margin-bottom: 10%;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(85, 170, 142);
+}
+
+button:active {
+  background-color: rgb(2, 56, 56);
+}
+
+.link:hover {
+  background-color: rgb(171, 192, 209);
+}
+
+.link:active {
+  background-color: cadetblue;
+}
